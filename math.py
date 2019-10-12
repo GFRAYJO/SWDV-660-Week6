@@ -19,7 +19,7 @@ logger.warning('python-logstash: test logstash warning message')
 
 formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s')
 
-file_handler = logging.FileHandler('results.log')
+file_handler = logging.FileHandler('python-application.log')
 file_handler.setFormatter(formatter)
 
 logger.addHandler(file_handler)
