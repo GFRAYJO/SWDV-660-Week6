@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 python-logstash = "*"
-logstash = "*"
 
 [requires]
 python_version = "3.6"

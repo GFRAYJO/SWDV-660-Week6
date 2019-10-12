@@ -18,8 +18,7 @@
     "default": {
         "python-logstash": {
             "hashes": [
-                "sha256:10943e5df83f592b4d61b63ad1afff855ccc8c9467f78718f0a59809ba1fe68c",
-                "sha256:5f0d7160db1bc7943916d67a149cd6c4404f01a6f012470e6bcb2e476bd558a5"
+                "sha256:10943e5df83f592b4d61b63ad1afff855ccc8c9467f78718f0a59809ba1fe68c"
             ],
             "index": "pypi",
             "version": "==0.4.6"
